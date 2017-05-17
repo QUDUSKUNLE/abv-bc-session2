@@ -1,0 +1,12 @@
+{
+    "name": "weatherapp",
+    "version": "1.0.0",
+    "description": "\"A Command Line WeatherApp\"",
+    "main": "weatherApp.js",
+    "scripts": {
+        "test": "getWeather"
+
+    },
+    "author": "\"Qudus YEKEEN\"",
+    "license": "ISC"
+}
