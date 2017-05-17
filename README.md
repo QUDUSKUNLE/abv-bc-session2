@@ -1,2 +1,2 @@
 # abv-bc-session2
-Solutions to function fizzBuzz and Class Car
+Solutions to Coding Labs and HTTP/API
